@@ -62,8 +62,8 @@ Proyek ini dibuat untuk memberikan peringatan dini (*early warning announcement*
 
 ### 1. Cloning Repository
 ```bash
-git clone https://github.com/username/announcer-raspi-halim.git
-cd announcer-raspi-halim
+git clone https://github.com/farifakhrozi-art/Announcer-Peringatan-Berbasis-Sensor-PIR-dan-Raspberry-PI3-.git
+cd Announcer-Peringatan-Berbasis-Sensor-PIR-dan-Raspberry-PI3-
 ```
 
 ### 2. Instalasi Dependency Python
