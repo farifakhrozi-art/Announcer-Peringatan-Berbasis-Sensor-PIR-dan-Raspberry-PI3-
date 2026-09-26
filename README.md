@@ -85,9 +85,8 @@ Pastikan pin GPIO untuk sensor PIR sudah disesuaikan pada file konfigurasi (misa
 
 ## 🖥️ Tampilan Antarmuka (UI)
 
-| Dashboard Web/Desktop | Pengaturan Audio & Waktu |
-| --------------------- | ------------------------ |
-| *(Tambahkan screenshot tampilan utama)* | *(Tambahkan screenshot form upload/jam)* |
+<img width="677" height="619" alt="Screenshot 2026-09-26 070511" src="https://github.com/user-attachments/assets/93d079fd-58a8-44e4-9327-3dcb2f4e5857" />
+
 
 ---
 
