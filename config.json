@@ -1,0 +1,6 @@
+{
+    "start_silent": "03:00",
+    "end_silent": "20:00",
+    "audio_file": "uploads/voice.mp3",
+    "auto_reset_days": 365
+}
